@@ -1,0 +1,7 @@
+/secrets.py
+/.eggs
+/.mypy_cache
+/.tox
+/.venv
+__pycache__
+/django_email_integration_test.egg-info
